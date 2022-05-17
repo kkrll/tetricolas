@@ -3,7 +3,7 @@ body {
   background: #3b3d3b;
   padding: 0;
   margin: 0;
-  font-family: "Play", "Helvetica Neue", "Arial", sans-serif;
+  font-family: "DM Sans", "Helvetica Neue", "Arial", sans-serif;
   font-weight: normal;
   line-height: 160%;
   font-size: 16px;
@@ -333,8 +333,8 @@ section.versus .game {
 #cover-tetris {
   /* position: absolute; */
   width: 480px;
-  height: 720px;
-  padding: 0 32px;
+  height: 640px;
+  padding: 8px;
   border-radius: 20px;
   background-color: #000;
   top: 0;
